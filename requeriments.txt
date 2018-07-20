@@ -1,0 +1,4 @@
+#pip freeze | grep <paquete>
+requests>=2.18.4
+scapy>=2.4.0
+configparser>=3.5.0
